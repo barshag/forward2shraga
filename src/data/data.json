@@ -1,0 +1,151 @@
+{
+    "Header": {
+        "title": "forward2shraga",
+        "paragraph": "קהילת סוכני בינה מלאכותית הגדולה בישראל. הצטרפו לרשת של אנשים אשר משנים את העולם באמצעות AI."
+    },
+    "About": {
+        "paragraph": "קהילת forward2shraga היא המקום בו אנשים מתחברים כדי לדון, ללמוד ולשתף בכל הקשור לבינה המלאכותית. אנו פה לסייע לכל חובב AI, עסק או אדם המחפש להקל על המשימות שלו באמצעות הבינה המלאכותית.",
+        "Why": [
+            "פורומים ודיונים מקצועיים",
+            "סדנאות והרצאות",
+            "פרויקטים משותפים",
+            "הזדמנויות עבודה ושותפויות"
+        ],
+        "Why2": [
+            "ידע רחב ועשיר",
+            "להשאר מעודכן",
+            "לא לפספס שום התפתחות",
+            "הפרייה הדדית"
+        ]
+    },
+    "Gallery": [
+        {
+            "title": "BABYAGI",
+            "largeImage": "img/portfolio/baby-large.jpg",
+            "smallImage": "img/portfolio/baby-small.jpg",
+            "link" :"www.baby.com"
+        },
+        {
+            "title": "AUTO-GPT",
+            "largeImage": "img/portfolio/auto-large.jpg",
+            "smallImage": "img/portfolio/auto-small.jpg",
+            "link" :"www.baby.com"
+        },
+        {
+            "title": "GPT-ENGINEER",
+            "largeImage": "img/portfolio/engineer-large.jpg",
+            "smallImage": "img/portfolio/engineer-small.jpg",
+            "link" :"www.baby.com"
+        },
+        {
+            "title": "META-GPT",
+            "largeImage": "img/portfolio/meta-large.jpg",
+            "smallImage": "img/portfolio/meta-small.jpg",
+            "link" :"www.baby.com"
+        },
+        {
+            "title": "LANGCHAIN AGENT",
+            "largeImage": "img/portfolio/lang-large.jpg",
+            "smallImage": "img/portfolio/lang-small.jpg",
+            "link" :"www.baby.com"
+        }
+        
+
+    ],
+    "Services": [
+        {
+            "icon": "fa fa-comments-o",
+            "name": "פורומים מקצועיים",
+            "text": "התחל בדיונים, שתף בידע והתעדכן בחדשות האחרונות בתחום ה-AI."
+        },
+        {
+            "icon": "fa fa-users",
+            "name": "סדנאות והרצאות",
+            "text": "הרחב את הידע שלך באמצעות סדנאות מקצועיות והרצאות מובילות."
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "פרויקטים משותפים",
+            "text": "הצטרף לפרויקטים, השתף פעולה עם חברי הקהילה והביא לידי ביצוע רעיונות חדשים."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "name": "שותפויות עסקיות",
+            "text": "מצא שותפים לעסק שלך, או הצטרף לחברה המתעניינת בשיתוף פעולה."
+        }
+    ],
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"בקהילת forward2shraga מצאתי את הכלים והידע שהייתי צריך להתקדם בפרויקט האישי שלי.\"",
+            "name": "איתי לוי"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"ההשתתפות בסדנאות המקצועיות של הקהילה הגבירה את ההבנה שלי לתחום.\"",
+            "name": "נועה כהן"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"חווית הלמידה והשיתוף בקהילה הזו היא בלתי נשכחת. ממליץ בחום!\"",
+            "name": "דני רוזן"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"בזכות forward2shraga הצלחתי להתחבר לשותפים לפרויקט שלי.\"",
+            "name": "שרה אברהם"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "איתי חפר",
+            "job": "מומחה לבינה מלאכותית"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "נועה כהן",
+            "job": "מנהיגת פרויקטים"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "דני רוזן",
+            "job": "מתכנת AI"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "שרה אברהם",
+            "job": "מרצה למתמטיקה ו-AI"
+        }
+    ],
+    "Contact": {
+        "address": "ישראל",
+        "phone": "+972 123 456 789",
+        "email": "info@de-flow.com",
+        "facebook": "facebook.com/deflow",
+        "twitter": "twitter.com/deflow",
+        "youtube": "youtube.com/deflow"
+    },
+    "Features": [
+        {
+            "icon": "fa fa-comments-o",
+            "title": "קהילה גדולה",
+            "text": "הצטרף לקהילה הגדולה בישראל לסוכני בינה מלאכותית."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "משאבים מקצועיים",
+            "text": "גש לכלים, מאמרים, ומחקרים שיסייעו לך להתקדם בתחום."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "שיתופי פעולה",
+            "text": "הקם והצטרף לפרויקטים באמצעות הקהילה."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "אירועים וכנסים",
+            "text": "השתתף באירועים מקצועיים המתקיימים בכל הארץ."
+        }
+    ]
+}
