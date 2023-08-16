@@ -58,6 +58,11 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
+              <a href="https://blog.forward2shraga.com" className="page-scroll">
+                בלוג
+              </a>
+            </li>
+            <li>
               <a href="#contact" className="page-scroll">
                 צור קשר
               </a>

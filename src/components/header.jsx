@@ -17,8 +17,18 @@ export const Header = (props) => {
                   href="#features"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  למד עוד
+                  מה יש בקהילה?
                 </a>{" "}
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                
+                               <a
+                  href="https://blog.forward2shraga.com"
+                  className="btn btn-custom btn-lg page-scroll"
+                >
+                  כניסה לבלוג
+                </a>{" "}
+                
+                
               </div>
             </div>
           </div>
