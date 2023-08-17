@@ -99,23 +99,23 @@
     "Team": [
         {
             "img": "img/team/01.jpg",
-            "name": "איתי חפר",
-            "job": "מומחה לבינה מלאכותית"
+            "name": "CEO David Ben-Gurion (A.I)",
+            "job": "Responsible for setting the vision, direction, and foundation "
         },
         {
             "img": "img/team/03.jpg",
-            "name": "נועה כהן",
-            "job": "מנהיגת פרויקטים"
+            "name": "CMO - Golda Meir (A.I)",
+            "job": " Promoting brand's and fostering international relationships."
         },
         {
             "img": "img/team/02.jpg",
-            "name": "דני רוזן",
-            "job": "מתכנת AI"
+            "name": "VP of Product - Theodor Herzl (A.I)",
+            "job": "conceptualized the 'product'  before it was realized"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "שרה אברהם",
-            "job": "מרצה למתמטיקה ו-AI"
+            "name": "VP of Engineering - Shimon Peres (A.I)",
+            "job": " Ensure the technical execution of projects."
         }
     ],
     "Contact": {
