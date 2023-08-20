@@ -23,31 +23,31 @@
             "title": "BABYAGI",
             "largeImage": "img/portfolio/baby-large.jpg",
             "smallImage": "img/portfolio/baby-small.jpg",
-            "link" :"www.baby.com"
+            "link" :"https://github.com/yoheinakajima/babyagi"
         },
         {
             "title": "AUTO-GPT",
             "largeImage": "img/portfolio/auto-large.jpg",
             "smallImage": "img/portfolio/auto-small.jpg",
-            "link" :"www.baby.com"
+            "link" :"https://github.com/Significant-Gravitas/Auto-GPT"
         },
         {
             "title": "GPT-ENGINEER",
             "largeImage": "img/portfolio/engineer-large.jpg",
             "smallImage": "img/portfolio/engineer-small.jpg",
-            "link" :"www.baby.com"
+            "link" :"https://github.com/AntonOsika/gpt-engineer"
         },
         {
             "title": "META-GPT",
             "largeImage": "img/portfolio/meta-large.jpg",
             "smallImage": "img/portfolio/meta-small.jpg",
-            "link" :"www.baby.com"
+            "link" :"https://github.com/geekan/MetaGPT"
         },
         {
             "title": "LANGCHAIN AGENT",
             "largeImage": "img/portfolio/lang-large.jpg",
             "smallImage": "img/portfolio/lang-small.jpg",
-            "link" :"www.baby.com"
+            "link" :"https://docs.langchain.com/docs/components/agents"
         }
         
 
@@ -122,9 +122,9 @@
         "address": "ישראל",
         "phone": "+972 123 456 789",
         "email": "info@de-flow.com",
-        "facebook": "facebook.com/deflow",
-        "twitter": "twitter.com/deflow",
-        "youtube": "youtube.com/deflow"
+        "facebook": "https://www.facebook.com/groups/811486093954073",
+        "twitter": "https://www.facebook.com/groups/811486093954073",
+        "youtube": "https://www.facebook.com/groups/811486093954073"
     },
     "Features": [
         {
