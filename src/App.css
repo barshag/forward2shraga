@@ -1,3 +1,4 @@
+/* Your Existing Styles */
 @media screen and (max-width: 400px) {
   #features {
     padding: 20px;
@@ -17,4 +18,96 @@
   }
 }
 
-body { direction: rtl; }
+body { 
+    direction: rtl; 
+}
+
+/* New Styles for Tool Gallery */
+.tool-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.tool-header {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.tool-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+}
+
+
+
+.tool-card-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.tool-card-content {
+    padding: 1rem;
+}
+
+.tool-card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.tool-card-detail,
+.tool-card-description,
+.tool-card-link,
+.tool-card-date,
+.tool-card-uploader {
+    margin-bottom: 0.5rem;
+}
+
+.tool-card-detail {
+    color: #666;
+}
+
+.tool-card-description {
+    color: #777;
+    font-size: 0.9rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.tool-card-link {
+    color: #007bff;
+    text-decoration: none;
+    display: block;
+}
+
+.tool-card-date,
+.tool-card-uploader {
+    color: #888;
+    font-size: 0.8rem;
+}
+
+
+
+/* Tool Card */
+.tool-card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s, box-shadow 0.2s;
+  transform: scale(1);
+}
+
+.tool-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}

@@ -27,33 +27,34 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            <li>
+            {/* <li>
               <a href="#features" className="page-scroll">
                 מאפיינים
               </a>
+            </li> */}
+                      <li>
+              <a href="#contact" className="page-scroll">
+                צור קשר
+              </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#about" className="page-scroll">
                 אודות
               </a>
-            </li>
-            <li>
-              <a href="#services" className="page-scroll">
-                שירותים
-              </a>
-            </li>
-            <li>
+            </li> */}
+  
+            {/* <li>
               <a href="#portfolio" className="page-scroll">
                 גלריה
               </a>
-            </li>
+            </li> */}
             <li>
-              <a href="#testimonials" className="page-scroll">
+              {/* <a href="/#testimonials" className="page-scroll">
                 המלצות
-              </a>
+              </a> */}
             </li>
             <li>
-              <a href="#team" className="page-scroll">
+              <a href="/#team" className="page-scroll">
                 הצוות
               </a>
             </li>
@@ -63,8 +64,8 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href="#contact" className="page-scroll">
-                צור קשר
+              <a href="/tools" className="page-scroll">
+                ארגז כלים של שרגא
               </a>
             </li>
           </ul>
